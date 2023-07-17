@@ -18,6 +18,6 @@ Você pode entrar em contato comigo, através do meu [LinkedIn](http://www.linke
 
 ## License
 
-Esse projeto possui MIT License - veja o [LICENSE.md](https://github.com/LuizTamanaha/lista-de-contatos/blob/main/LICENSE) para mais detalhes.
+Esse projeto possui MIT License - veja o [LICENSE.md](https://github.com/LuizTamanaha/lista-de-contatosgit-/blob/main/LICENSE) para mais detalhes.
 
 Obrigado!!!
